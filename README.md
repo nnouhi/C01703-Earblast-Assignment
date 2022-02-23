@@ -1,4 +1,4 @@
-# C01703-Earblast-Assignment
+# C01703-Earblast-Assignment Mark : 100%
 # Assignment met all the below requirements
 # For a third-class grade (40%+) you must have: <br />
 •	Content marked up in HTML with a linked CSS stylesheet, using a layout and style suitable for a mobile app <br />
